@@ -1,0 +1,9 @@
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\obj\Debug\ResolveAssemblyReference.cache
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CQRSTest.WriteModel.dll
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CQRSTest.WriteModel.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CQRSTest.CrossCutting.dll
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CQRSTest.CrossCutting.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\obj\Debug\CQRSTest.WriteModel.dll
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\obj\Debug\CQRSTest.WriteModel.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\EntityFramework.dll
+c:\dev\experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\EntityFramework.xml

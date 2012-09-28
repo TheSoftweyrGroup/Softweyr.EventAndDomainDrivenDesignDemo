@@ -1,0 +1,5 @@
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CQRSTest.UI.Model.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CQRSTest.UI.Model.pdb
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\obj\Debug\CQRSTest.UI.Model.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\obj\Debug\CQRSTest.UI.Model.pdb

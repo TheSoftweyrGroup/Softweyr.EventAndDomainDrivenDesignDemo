@@ -1,0 +1,9 @@
+C:\Dev\Experimental\CQRSTest\ServiceBus\bin\Debug\ServiceBus.dll
+C:\Dev\Experimental\CQRSTest\ServiceBus\bin\Debug\ServiceBus.pdb
+C:\Dev\Experimental\CQRSTest\ServiceBus\bin\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Experimental\CQRSTest\ServiceBus\bin\Debug\EntityFramework.dll
+C:\Dev\Experimental\CQRSTest\ServiceBus\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Experimental\CQRSTest\ServiceBus\bin\Debug\EntityFramework.xml
+C:\Dev\Experimental\CQRSTest\ServiceBus\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Experimental\CQRSTest\ServiceBus\obj\Debug\ServiceBus.dll
+C:\Dev\Experimental\CQRSTest\ServiceBus\obj\Debug\ServiceBus.pdb

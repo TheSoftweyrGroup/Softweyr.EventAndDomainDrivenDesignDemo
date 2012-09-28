@@ -1,0 +1,5 @@
+C:\Dev\Experimental\CQRSTest\CQRSTest.IntegrationTests\bin\Debug\CQRSTest.IntegrationTests.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.IntegrationTests\bin\Debug\CQRSTest.IntegrationTests.pdb
+C:\Dev\Experimental\CQRSTest\CQRSTest.IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Experimental\CQRSTest\CQRSTest.IntegrationTests\obj\Debug\CQRSTest.IntegrationTests.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.IntegrationTests\obj\Debug\CQRSTest.IntegrationTests.pdb

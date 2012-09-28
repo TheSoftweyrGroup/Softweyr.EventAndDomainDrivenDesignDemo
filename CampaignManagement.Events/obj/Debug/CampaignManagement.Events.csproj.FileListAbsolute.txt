@@ -1,0 +1,9 @@
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\bin\Debug\CampaignManagement.Events.dll
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\bin\Debug\CampaignManagement.Events.pdb
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\bin\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\bin\Debug\EntityFramework.dll
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\bin\Debug\EntityFramework.xml
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\obj\Debug\CampaignManagement.Events.dll
+C:\Dev\Experimental\CQRSTest\CampaignManagement.Events\obj\Debug\CampaignManagement.Events.pdb

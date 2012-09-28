@@ -1,0 +1,11 @@
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CampaignManagement.Events.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\EntityFramework.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CampaignManagement.Events.pdb
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\EntityFramework.xml
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CQRSTest.UI.ReadModel.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\bin\Debug\CQRSTest.UI.ReadModel.pdb
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\obj\Debug\CQRSTest.UI.ReadModel.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.UI.Model\obj\Debug\CQRSTest.UI.ReadModel.pdb

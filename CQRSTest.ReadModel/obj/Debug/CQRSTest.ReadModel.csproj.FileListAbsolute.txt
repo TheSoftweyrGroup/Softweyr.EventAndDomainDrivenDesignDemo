@@ -1,0 +1,13 @@
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\obj\Debug\ResolveAssemblyReference.cache
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\CQRSTest.ReadModel.dll
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\CQRSTest.ReadModel.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\CQRSTest.CrossCutting.dll
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\CQRSTest.WriteModel.dll
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\EntityFramework.dll
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\CQRSTest.CrossCutting.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\CQRSTest.WriteModel.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\EntityFramework.xml
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\obj\Debug\CQRSTest.ReadModel.dll
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\obj\Debug\CQRSTest.ReadModel.pdb
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\Newtonsoft.Json.dll
+c:\dev\experimental\CQRSTest\CQRSTest.ReadModel\bin\Debug\Newtonsoft.Json.xml

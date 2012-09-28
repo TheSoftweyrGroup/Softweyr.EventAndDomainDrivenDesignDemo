@@ -1,0 +1,404 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="2" />
+      <Item value="createCustomerCommand" priority="0" />
+      <Item value="public" priority="47" />
+      <Item value="Guid`0" priority="10" />
+      <Item value="static" priority="19" />
+      <Item value="Console`0" priority="1" />
+      <Item value="me" priority="2" />
+      <Item value="new" priority="35" />
+      <Item value="userWantsToCreateCustomer" priority="0" />
+      <Item value="userWantsToChangeCustomerName" priority="1" />
+      <Item value="string" priority="6" />
+      <Item value="routes" priority="0" />
+      <Item value="name" priority="2" />
+      <Item value="url" priority="0" />
+      <Item value="defaults" priority="0" />
+      <Item value="object" priority="3" />
+      <Item value="IEvent" priority="5" />
+      <Item value="void" priority="11" />
+      <Item value="db" priority="9" />
+      <Item value="CustomerSummary" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="event" priority="24" />
+      <Item value="where" priority="3" />
+      <Item value="TType`0" priority="4" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="customerSummary" priority="0" />
+      <Item value="ModelBinderAttribute`0" priority="0" />
+      <Item value="var" priority="13" />
+      <Item value="CustomerId" priority="3" />
+      <Item value="command" priority="0" />
+      <Item value="Delete`0" priority="0" />
+      <Item value="UserWantsToRemoveCustomer`0" priority="0" />
+      <Item value="typeof" priority="4" />
+      <Item value="IHandleEvent" priority="5" />
+      <Item value="class" priority="14" />
+      <Item value="return" priority="4" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="handlers" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="in" priority="2" />
+      <Item value="Serializable" priority="0" />
+      <Item value="FilterConfig`0" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="filter" priority="0" />
+      <Item value="CustomerSummaryWebUpdate" priority="0" />
+      <Item value="customerId" priority="2" />
+      <Item value="providerFunc" priority="0" />
+      <Item value="type" priority="1" />
+      <Item value="CustomerSummaryWebUpdateViewUpdater`0" priority="0" />
+      <Item value="System" priority="3" />
+      <Item value="Collections" priority="1" />
+      <Item value="Concurrent" priority="1" />
+      <Item value="ConcurrentDictionary" priority="0" />
+      <Item value="ConcurrentDictionary&lt;Type,IEnumerable&lt;object&gt;&gt;" priority="0" />
+      <Item value="ServiceLocator`0" priority="0" />
+      <Item value="eventHandlers" priority="3" />
+      <Item value="null" priority="0" />
+      <Item value="out" priority="0" />
+      <Item value="CrossAppDomainDelegate`0" priority="0" />
+      <Item value="eventHandler" priority="1" />
+      <Item value="original" priority="1" />
+      <Item value="Array`0" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="UserWantsToChangeCustomerName`0" priority="1" />
+      <Item value="Where`1" priority="3" />
+      <Item value="contract" priority="0" />
+      <Item value="throw" priority="3" />
+      <Item value="NotSupportedException" priority="1" />
+      <Item value="EventAggregation`0" priority="4" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="Reflection" priority="1" />
+      <Item value="Assembly`0" priority="0" />
+      <Item value="AppDomain`0" priority="1" />
+      <Item value="asm" priority="1" />
+      <Item value="internal" priority="0" />
+      <Item value="interface" priority="2" />
+      <Item value="List&lt;object&gt;" priority="0" />
+      <Item value="IHandleAllEvents`0" priority="1" />
+      <Item value="ReaderWriterLockSlim" priority="0" />
+      <Item value="genericEventHandler" priority="2" />
+      <Item value="eventHandlerLists" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="genericEventHandlers" priority="0" />
+      <Item value="handler" priority="0" />
+      <Item value="genericEventHandlersLock" priority="0" />
+      <Item value="ApplicationException" priority="1" />
+      <Item value="UserWantsToCreateCustomer`0" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="EventAggregationContext" priority="0" />
+      <Item value="dynHandler" priority="0" />
+      <Item value="customerController" priority="1" />
+      <Item value="CustomerController`0" priority="0" />
+      <Item value="this" priority="17" />
+      <Item value="if" priority="2" />
+      <Item value="createCustomerFailed" priority="0" />
+      <Item value="CustomerCreatedSuccessfully`0" priority="2" />
+      <Item value="Created" priority="0" />
+      <Item value="Customer`0" priority="0" />
+      <Item value="customer" priority="2" />
+      <Item value="CustomerService`0" priority="0" />
+      <Item value="dynamic" priority="0" />
+      <Item value="eventAggregator" priority="0" />
+      <Item value="EventStore" priority="0" />
+      <Item value="Reason" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="chr" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="CustomerNameRule" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="EventStoreContext" priority="0" />
+      <Item value="Event" priority="0" />
+      <Item value="AggregateId" priority="0" />
+      <Item value="EventBody" priority="1" />
+      <Item value="EventType" priority="1" />
+      <Item value="using" priority="2" />
+      <Item value="StreamingContext`0" priority="0" />
+      <Item value="TextWriter`0" priority="0" />
+      <Item value="StringWriter`0" priority="0" />
+      <Item value="XmlReader`0" priority="0" />
+      <Item value="sw" priority="2" />
+      <Item value="decimal" priority="0" />
+      <Item value="Contains`1" priority="0" />
+      <Item value="xmlWriter" priority="1" />
+      <Item value="domainEventAggregator" priority="2" />
+      <Item value="evt" priority="0" />
+      <Item value="domainEventContext" priority="0" />
+      <Item value="TDomainEvent`0" priority="3" />
+      <Item value="IPublish" priority="1" />
+      <Item value="is" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.CQRS.IEvent">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="Empty" priority="0" />
+      <Item value="NewGuid`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.WriteModel.UserWantsToChangeCustomerName">
+      <Item value="Publish`1" priority="2" />
+      <Item value="CustomerId" priority="4" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.UrlParameter">
+      <Item value="Optional" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteCollection">
+      <Item value="MapRoute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.CustomerSummaryContext">
+      <Item value="CustomerSummaries" priority="2" />
+      <Item value="SaveChanges`0" priority="3" />
+      <Item value="CustomerSummaryWebUpdates" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Find`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.EventHandlers.CustomerSummaryViewUpdater">
+      <Item value="Handle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.ReadModel.CustomerSummary">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.WriteModel.UserWantsToRemoveCustomer">
+      <Item value="Publish`1" priority="0" />
+      <Item value="CustomerId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Cast`1" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`2">
+      <Item value="Invoke`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Practices.ServiceLocation.ServiceLocator">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.WriteModel.UserWantsToCreateCustomer">
+      <Item value="Name" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CQRSTest.CQRS.ServiceLocator">
+      <Item value="ProviderFunc" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Concurrent.ConcurrentDictionary`2">
+      <Item value="TryGetValue`0" priority="0" />
+      <Item value="AddOrUpdate`0" priority="0" />
+      <Item value="GetOrAdd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CQRSTest.CQRS.EventAggregation">
+      <Item value="AddEventHandler`1" priority="1" />
+      <Item value="GlobalContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="2" />
+      <Item value="Apply`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetInterfaces`0" priority="0" />
+      <Item value="GetGenericTypeDefinition`0" priority="2" />
+      <Item value="GetType`0" priority="1" />
+      <Item value="GetGenericArguments`0" priority="0" />
+      <Item value="FullName" priority="2" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="GetAssemblies`0" priority="2" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="ReflectionOnlyGetAssemblies`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetTypes`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ReaderWriterLockSlim">
+      <Item value="EnterWriteLock`0" priority="0" />
+      <Item value="ExitWriteLock`0" priority="0" />
+      <Item value="EnterReadLock`0" priority="0" />
+      <Item value="ExitReadLock`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.CQRS.IHandleAllEvents">
+      <Item value="Handle`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Newtonsoft.Json.JsonConverter">
+      <Item value="WriteJson`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Controllers.CustomerController">
+      <Item value="Create`0" priority="0" />
+      <Item value="Publish`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CQRSTest.WriteModel.CustomerState">
+      <Item value="DoesNotExist" priority="2" />
+      <Item value="Created" priority="2" />
+      <Item value="Removed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.WriteModel.CustomerCreatedSuccessfully">
+      <Item value="CustomerId" priority="4" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.WriteModel.Customer">
+      <Item value="State" priority="1" />
+      <Item value="Apply`0" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Publish`1" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.CQRS.EventAggregationContext">
+      <Item value="AddEventHandlerImplicitly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.WriteModel.Events.CustomerService">
+      <Item value="eventStore" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Any`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsLetterOrDigit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.EventStoreContext">
+      <Item value="Events" priority="1" />
+      <Item value="SaveChanges`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.Models.Event">
+      <Item value="AggregateId" priority="0" />
+      <Item value="EventId" priority="0" />
+      <Item value="EventBody" priority="0" />
+      <Item value="EventType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedQueryable`1">
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.DataContractSerializer">
+      <Item value="WriteObject`0" priority="1" />
+      <Item value="ReadObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringWriter">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriter">
+      <Item value="Flush`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CQRSTest.WriteModel.Customer+BusinessRule+CustomerMustNotAlreadyExist">
+      <Item value="IsSatisifedBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.CQRS.DomainEventAggregationContext">
+      <Item value="RegisterEventHandlerExplicitly`1" priority="1" />
+      <Item value="RegisterEventHandlerImplicitly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRSTest.CrossCutting.DomainEvents.IPublish">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerEventSourceController.cs" caret="0" fromTop="0" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IHandleAllDomainEvents.cs" caret="67" fromTop="2" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IHandleDomainEvent.cs" caret="542" fromTop="18" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DummyServiceBus/f:DummyServiceBus.cs" caret="162" fromTop="5" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:DomainEventAggregation.cs" caret="65" fromTop="2" />
+      <File id="09F5BB9A-8AD3-49BD-A366-06CB93CC1355/f:UserWantsToChangeCustomerName.cs" caret="127" fromTop="5" />
+      <File id="AD8D9EAF-13D0-4473-B1A7-7EFA17043C50/f:CustomerRemovedByUser.cs" caret="226" fromTop="9" />
+      <File id="AD8D9EAF-13D0-4473-B1A7-7EFA17043C50/f:CustomerNameChangedByUser.cs" caret="120" fromTop="6" />
+      <File id="FFE94C6D-375F-4643-9A10-2AD0F844ECD9/f:CustomerControllerTestFixture.cs" caret="207" fromTop="9" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.cs" caret="514" fromTop="18" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.BusinessRules.cs" caret="672" fromTop="10" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.State.cs" caret="1074" fromTop="21" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/f:CustomerEventHandler.cs" caret="600" fromTop="7" />
+      <File id="AD8D9EAF-13D0-4473-B1A7-7EFA17043C50/f:CustomerCreatedByUser.cs" caret="312" fromTop="14" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/f:Global.asax.cs" caret="1137" fromTop="11" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:App_Start/f:FilterConfig.cs" caret="62" fromTop="3" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:App_Start/f:RouteConfig.cs" caret="316" fromTop="13" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:App_Start/f:WebApiConfig.cs" caret="0" fromTop="0" />
+      <File id="74F8730A-1A52-4D00-ACE9-8D230B51703B/f:CustomerSummary.cs" caret="179" fromTop="7" />
+      <File id="74F8730A-1A52-4D00-ACE9-8D230B51703B/d:EventHandlers/f:CustomerSummaryWebUpdateViewUpdater.cs" caret="859" fromTop="22" />
+      <File id="74F8730A-1A52-4D00-ACE9-8D230B51703B/f:CustomerSummaryContext.cs" caret="1026" fromTop="25" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:App_Start/f:EventAggregationConfig.cs" caret="815" fromTop="18" />
+      <File id="91AA4FA2-A908-4340-8BB8-98DB569F563A/f:DummyServiceBusDomainEventHandler.cs" caret="478" fromTop="16" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:DomainEventExtensionMethods.cs" caret="318" fromTop="9" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:DomainEventAggregationContext.cs" caret="1859" fromTop="16" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IDomainEvent.cs" caret="56" fromTop="2" />
+      <File id="09F5BB9A-8AD3-49BD-A366-06CB93CC1355/f:UserWantsToCreateCustomer.cs" caret="244" fromTop="9" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="862" fromTop="15" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerController.cs" caret="313" fromTop="14" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IPublish.cs" caret="379" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.State.cs" caret="37" fromTop="0" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.State.cs" caret="334" fromTop="5" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.State.cs" caret="772" fromTop="8" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:App_Start/f:EventAggregationConfig.cs" caret="806" fromTop="17" />
+      <File id="AD8D9EAF-13D0-4473-B1A7-7EFA17043C50/f:CustomerCreatedByUser.cs" caret="205" fromTop="8" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/f:Global.asax.cs" caret="1236" fromTop="15" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/f:Global.asax.cs" caret="1236" fromTop="16" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/f:Global.asax.cs" caret="1252" fromTop="11" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:App_Start/f:EventAggregationConfig.cs" caret="571" fromTop="14" />
+      <File id="91AA4FA2-A908-4340-8BB8-98DB569F563A/f:DummyServiceBusDomainEventHandler.cs" caret="126" fromTop="4" />
+      <File id="91AA4FA2-A908-4340-8BB8-98DB569F563A/f:DummyServiceBusDomainEventHandler.cs" caret="468" fromTop="14" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerController.cs" caret="1446" fromTop="16" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:DomainEventExtensionMethods.cs" caret="34" fromTop="2" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:DomainEventExtensionMethods.cs" caret="329" fromTop="10" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="1116" fromTop="19" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IPublish.cs" caret="615" fromTop="15" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IPublish.cs" caret="559" fromTop="9" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IPublish.cs" caret="1144" fromTop="25" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IPublish.cs" caret="1127" fromTop="27" />
+      <File id="7E6B2DB9-CDEB-417C-950D-E547377DEFAC/d:DomainEvents/f:IPublish.cs" caret="832" fromTop="21" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="1579" fromTop="24" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="1894" fromTop="17" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="2195" fromTop="24" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="2264" fromTop="19" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="2744" fromTop="26" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerController.cs" caret="443" fromTop="19" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerController.cs" caret="2204" fromTop="26" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerController.cs" caret="441" fromTop="16" />
+      <File id="D69CE7D1-A76A-4990-A485-361602B180A9/d:Controllers/f:CustomerController.cs" caret="2921" fromTop="20" />
+      <File id="D3997C55-7D41-4824-A2EC-7FB1600968AE/d:Customer/f:Customer.Behaviour.cs" caret="801" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6.1\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

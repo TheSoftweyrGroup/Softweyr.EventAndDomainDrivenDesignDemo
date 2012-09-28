@@ -1,0 +1,7 @@
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\bin\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\bin\Debug\EntityFramework.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\bin\Debug\EntityFramework.xml
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.pdb

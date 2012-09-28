@@ -1,0 +1,13 @@
+<Modules>
+  <Module PersistentId="D69CE7D1-A76A-4990-A485-361602B180A9" ModuleId="CQRSTest" />
+  <Module PersistentId="99377E4A-7C08-4051-B391-D2C24076C871" ModuleId="CQRSTest.ReadModel" />
+  <Module PersistentId="7E6B2DB9-CDEB-417C-950D-E547377DEFAC" ModuleId="CQRSTest.CrossCutting" />
+  <Module PersistentId="D3997C55-7D41-4824-A2EC-7FB1600968AE" ModuleId="CQRSTest.WriteModel" />
+  <Module PersistentId="FFE94C6D-375F-4643-9A10-2AD0F844ECD9" ModuleId="CQRSTest.Tests" />
+  <Module PersistentId="74F8730A-1A52-4D00-ACE9-8D230B51703B" ModuleId="CQRSTest.UI.Model" />
+  <Module PersistentId="F8E62F75-EE4F-47DE-983C-C22EF84550DC" ModuleId="CQRSTest.IntegrationTests" />
+  <Module PersistentId="AD8D9EAF-13D0-4473-B1A7-7EFA17043C50" ModuleId="CampaignManagement.Events" />
+  <Module PersistentId="09F5BB9A-8AD3-49BD-A366-06CB93CC1355" ModuleId="CampaignManagementWeb.Events" />
+  <Module PersistentId="91AA4FA2-A908-4340-8BB8-98DB569F563A" ModuleId="ServiceBus" />
+  <Module PersistentId="18763C12-CC41-4A67-86AB-732A3A166F93" ModuleId="Views.Web.EventHandlers" />
+</Modules>
