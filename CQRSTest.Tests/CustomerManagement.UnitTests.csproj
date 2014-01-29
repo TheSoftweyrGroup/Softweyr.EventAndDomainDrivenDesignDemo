@@ -107,9 +107,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CQRSTest.WriteModel\CampaignManagement.Model.csproj">
+    <ProjectReference Include="..\CQRSTest.WriteModel\CustomerManagement.Model.csproj">
       <Project>{D3997C55-7D41-4824-A2EC-7FB1600968AE}</Project>
-      <Name>CampaignManagement.Model</Name>
+      <Name>CustomerManagement.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\CQRSTest\Mvc.csproj">
       <Project>{D69CE7D1-A76A-4990-A485-361602B180A9}</Project>

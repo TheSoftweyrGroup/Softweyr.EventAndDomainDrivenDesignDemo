@@ -73,7 +73,7 @@ namespace CQRSTest.Controllers
                 return HttpNotFound();
             }
 
-            return View(customersummary);
+            return View(new UserWantsToChangeCustomerName { CustomerId = customersummary.CustomerId, Name = customersummary.Name });
         }
 
         //

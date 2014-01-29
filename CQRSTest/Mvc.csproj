@@ -155,9 +155,9 @@
     <Content Include="Views\Customer\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CampaignManagement.Events\CampaignManagement.Events.csproj">
+    <ProjectReference Include="..\CampaignManagement.Events\CustomerManagement.Events.csproj">
       <Project>{AD8D9EAF-13D0-4473-B1A7-7EFA17043C50}</Project>
-      <Name>CampaignManagement.Events</Name>
+      <Name>CustomerManagement.Events</Name>
     </ProjectReference>
     <ProjectReference Include="..\CampaignManagementWeb.Events\WebUserInteraction.Events.csproj">
       <Project>{09F5BB9A-8AD3-49BD-A366-06CB93CC1355}</Project>
@@ -171,9 +171,9 @@
       <Project>{74F8730A-1A52-4D00-ACE9-8D230B51703B}</Project>
       <Name>Model</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CQRSTest.WriteModel\CampaignManagement.Model.csproj">
+    <ProjectReference Include="..\CQRSTest.WriteModel\CustomerManagement.Model.csproj">
       <Project>{D3997C55-7D41-4824-A2EC-7FB1600968AE}</Project>
-      <Name>CampaignManagement.Model</Name>
+      <Name>CustomerManagement.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\ServiceBus\ServiceBusEventHandler.csproj">
       <Project>{91AA4FA2-A908-4340-8BB8-98DB569F563A}</Project>

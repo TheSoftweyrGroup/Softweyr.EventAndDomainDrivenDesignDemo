@@ -11,8 +11,8 @@
             domainEventAggregator.RegisterEventHandlerImplicitly(new DummyServiceBusDomainEventHandler());
 
             // TODO: Move these into their own bounded contexts?
-            domainEventAggregator.RegisterEventHandlerImplicitly(new CustomerSummaryViewUpdater());
-            domainEventAggregator.RegisterEventHandlerImplicitly(new CustomerSummaryWebUpdateViewUpdater());  
+            domainEventAggregator.RegisterEventHandlerImplicitly(new CustomerManagementReadModelUpdater());
+            domainEventAggregator.RegisterEventHandlerImplicitly(new CustomerManagementHtmlEventSourceUpdater());  
             domainEventAggregator.RegisterEventHandlerImplicitly(new CustomerEventsHandler(new EventStore())); 
         }
     }

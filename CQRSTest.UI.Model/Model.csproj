@@ -46,17 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomerSummary.cs" />
+    <Compile Include="ReadModel\CustomerSummary.cs" />
     <Compile Include="CustomerSummaryContext.cs" />
-    <Compile Include="EventHandlers\CustomerSummaryViewUpdater.cs" />
-    <Compile Include="CustomerSummaryWebUpdate.cs" />
-    <Compile Include="EventHandlers\CustomerSummaryWebUpdateViewUpdater.cs" />
+    <Compile Include="ReadModel\CustomerManagementReadModelUpdater.cs" />
+    <Compile Include="EventSource\CustomerSummaryWebUpdate.cs" />
+    <Compile Include="EventSource\CustomerManagementHtmlEventSourceUpdater.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CampaignManagement.Events\CampaignManagement.Events.csproj">
+    <ProjectReference Include="..\CampaignManagement.Events\CustomerManagement.Events.csproj">
       <Project>{AD8D9EAF-13D0-4473-B1A7-7EFA17043C50}</Project>
-      <Name>CampaignManagement.Events</Name>
+      <Name>CustomerManagement.Events</Name>
     </ProjectReference>
     <ProjectReference Include="..\CQRSTest.CrossCutting\CrossCutting.csproj">
       <Project>{7E6B2DB9-CDEB-417C-950D-E547377DEFAC}</Project>

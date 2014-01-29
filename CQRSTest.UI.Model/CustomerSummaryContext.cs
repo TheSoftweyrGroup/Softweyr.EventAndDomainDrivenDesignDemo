@@ -19,7 +19,7 @@ namespace CQRSTest.Models
         }
 
         public DbSet<CustomerSummary> CustomerSummaries { get; set; }
-        public DbSet<CustomerSummaryWebUpdate> CustomerSummaryWebUpdates { get; set; }
+        public DbSet<CustomerManagementHtmlEvent> CustomerSummaryWebUpdates { get; set; }
         
     }
 }

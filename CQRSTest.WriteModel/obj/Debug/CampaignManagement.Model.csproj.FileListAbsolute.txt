@@ -11,3 +11,16 @@ C:\Dev\Experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CQRSTest.CrossCutting
 C:\Dev\Experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\EntityFramework.xml
 C:\Dev\Experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CampaignManagementWeb.Events.dll
 C:\Dev\Experimental\CQRSTest\CQRSTest.WriteModel\bin\Debug\CampaignManagementWeb.Events.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CQRSTest.WriteModel.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CQRSTest.WriteModel.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CampaignManagement.Events.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CampaignManagementWeb.Events.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\EntityFramework.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CampaignManagement.Events.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CampaignManagementWeb.Events.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\bin\Debug\EntityFramework.xml
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\obj\Debug\CQRSTest.WriteModel.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.WriteModel\obj\Debug\CQRSTest.WriteModel.pdb

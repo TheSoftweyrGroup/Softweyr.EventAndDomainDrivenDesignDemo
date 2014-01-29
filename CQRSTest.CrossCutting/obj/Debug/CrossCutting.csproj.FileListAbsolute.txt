@@ -5,3 +5,17 @@ C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\bin\Debug\EntityFramework.xml
 C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\obj\Debug\ResolveAssemblyReference.cache
 C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.dll
 C:\Dev\Experimental\CQRSTest\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\EntityFramework.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\EntityFramework.xml
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.dll
+C:\Dev\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.pdb
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\CQRSTest.CrossCutting.dll
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\CQRSTest.CrossCutting.pdb
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\EntityFramework.dll
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\bin\Debug\EntityFramework.xml
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\obj\Debug\CrossCutting.csprojResolveAssemblyReference.cache
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.dll
+C:\c\src\Softweyr.EventAndDomainDrivenDesignDemo\CQRSTest.CrossCutting\obj\Debug\CQRSTest.CrossCutting.pdb
